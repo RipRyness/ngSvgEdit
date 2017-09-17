@@ -8,7 +8,10 @@
   "typings": "./ng-svg-edit.d.ts",
   "author": "",
   "license": "MIT",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RipRyness/ngSvgEdit.git"
+  },
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
