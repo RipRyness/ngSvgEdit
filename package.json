@@ -49,6 +49,8 @@
     "@angular/core": "~4.4.1",
     "@angular/platform-browser": "~4.4.1",
     "@angular/platform-browser-dynamic": "~4.4.1",
+    "@ngrx/effects": "^4.0.5",
+    "@ngrx/store": "^4.0.3",
     "@types/jasmine": "2.6.0",
     "@types/node": "^8.0.28",
     "camelcase": "^4.0.0",
